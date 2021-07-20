@@ -5,16 +5,19 @@
 }
 /* Projects Photo */
 #project1{
-    background-image: url('./aaa.png');
+    background-image: url('./mika.png');
     cursor: none;    
+    background-size: contain;
 }
 #project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('./quizz.png');
     cursor: none;
+    background-size: contain;
 }
 #project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('./supermarket.png');
     cursor: none;
+    background-size: contain;
 }
 #project4{
     background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');

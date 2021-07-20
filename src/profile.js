@@ -46,21 +46,21 @@ const projects = [
         id: "project1",
         name: "Projet 1",
         skills: ["HTML, CSS, JS"],
-        url: ""
+        url: "https://guenael1.github.io/MickaelChrome/pages/index.html"
     },
     {
         // Add image in './styles/images.css' in #project2
         id: "project2",
         name: "Projet 2",
         skills: ["JAVASCRIPT"],
-        url: "https://github.com/kaustubhai"
+        url: "https://guenael1.github.io/quizjavascript/"
     },
     {
         // Add image in './styles/images.css' in #project3
         id: "project3",
         name: "Projet 3",
         skills: ["REACT JS"],
-        url: "https://github.com/kaustubhai"
+        url: ""
     }
 ]
 // Edit your Miscellaneous Activities, its name and the url. 
