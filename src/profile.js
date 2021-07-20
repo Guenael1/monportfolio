@@ -60,7 +60,7 @@ const projects = [
         id: "project3",
         name: "Projet 3",
         skills: ["REACT JS"],
-        url: ""
+        url: "https://app.netlify.com/sites/pedantic-keller-1bdef7/overview"
     }
 ]
 // Edit your Miscellaneous Activities, its name and the url. 
