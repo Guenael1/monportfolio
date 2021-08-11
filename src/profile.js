@@ -52,7 +52,7 @@ const projects = [
         // Add image in './styles/images.css' in #project2
         id: "project2",
         name: "Projet 2",
-        skills: ["REACT"],
+        skills: ["REACT JS"],
         url: "https://lependu.netlify.app/"
     },
     {
