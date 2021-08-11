@@ -52,8 +52,8 @@ const projects = [
         // Add image in './styles/images.css' in #project2
         id: "project2",
         name: "Projet 2",
-        skills: ["JAVASCRIPT"],
-        url: "https://guenael1.github.io/quizjavascript/"
+        skills: ["REACT"],
+        url: "https://lependu.netlify.app/"
     },
     {
         // Add image in './styles/images.css' in #project3
